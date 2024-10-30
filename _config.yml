@@ -3,3 +3,5 @@ description: 日本での仕事、または生活における体験と経験を�
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-hacker
+runs-on: ubuntu-latest
+
